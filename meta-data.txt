@@ -1,0 +1,1 @@
+curl http://169.254.169.254/latest/metada/iam/security-credentials/MyFirstEC2Role
